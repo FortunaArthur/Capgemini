@@ -1,4 +1,4 @@
-public class App{
+public class Casos{
     public static void main(String[] args){
 
         int codigoProduto = 2;

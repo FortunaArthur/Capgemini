@@ -1,4 +1,4 @@
-public class App{
+public class Enquanto{
     public static void main(String[] args){
 
         int total = 10;
